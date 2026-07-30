@@ -3,40 +3,39 @@
 <h1>
   Olá, eu sou Juan Costa
   <img
-    src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif"
-    width="35"
-    alt="Aceno animado"
+    src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif"
+    width="32"
+    alt="Mão acenando"
   />
 </h1>
 
 <img
-  src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1200&color=2F81F7&center=true&vCenter=true&width=600&lines=Front-End+Developer;HTML%2C+CSS+e+JavaScript"
-  alt="Front-End Developer - HTML, CSS e JavaScript"
+  src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=24&duration=2500&pause=900&color=2F81F7&center=true&vCenter=true&width=550&lines=Front-End+Developer;HTML%2C+CSS+e+JavaScript"
+  alt="Front-End Developer, HTML, CSS e JavaScript"
 />
 
 <p>
-  Atualmente trabalho na <strong>General Motors</strong> e estudo
+  Profissional da <strong>General Motors</strong> e estudante de
   <strong>Engenharia de Software</strong>.
 </p>
 
 <p>
-  Desenvolvo projetos para aprimorar minhas habilidades e conquistar minha
-  primeira oportunidade profissional na área de desenvolvimento.
+  Construindo minha carreira em desenvolvimento Front-End por meio de
+  estudos e projetos práticos.
 </p>
 
 </div>
 
-
 ---
 
-## Sobre mim
+## Perfil
 
-- Estudante de Engenharia de Software
-- Atualmente trabalho na General Motors
-- Focado em desenvolvimento Front-end
-- Desenvolvendo aplicações com JavaScript e Firebase
-- Estudando programação e criando projetos práticos
-- Buscando minha primeira oportunidade na área de desenvolvimento
+- Desenvolvimento de interfaces web responsivas
+- Manipulação do DOM com JavaScript
+- Integração de aplicações com Firebase
+- Uso de autenticação e banco de dados em tempo real
+- Organização e versionamento de código com Git e GitHub
+- Interesse em boas práticas, acessibilidade e experiência do usuário
 
 ## Tecnologias e ferramentas
 
@@ -49,18 +48,17 @@
 
 </div>
 
-## Atualmente estudando
+## Foco atual
 
-- JavaScript
-- Desenvolvimento Front-end
-- Engenharia de Software
-- Firebase e bancos de dados
-- Git e GitHub
-- Desenvolvimento de aplicações responsivas
+- Aprofundar meus conhecimentos em JavaScript
+- Melhorar a organização e a qualidade do código
+- Desenvolver interfaces responsivas e acessíveis
+- Evoluir no uso do Firebase e bancos de dados
+- Construir aplicações completas para meu portfólio
 
 ## Objetivo profissional
 
-Busco uma oportunidade como desenvolvedor Front-end para aplicar meus conhecimentos, aprender com profissionais experientes e contribuir com projetos reais.
+Busco minha primeira oportunidade como desenvolvedor Front-End para aplicar meus conhecimentos, evoluir ao lado de profissionais experientes e contribuir com soluções reais.
 
 ## Contato
 
@@ -68,7 +66,7 @@ Busco uma oportunidade como desenvolvedor Front-end para aplicar meus conhecimen
 
 <a href="https://www.linkedin.com/in/juancostaa">
   <img
-    src="https://skillicons.dev/icons?i=linkedin"
+    src="https://skillicons.dev/icons?i=linkedin&theme=dark"
     width="48"
     height="48"
     alt="LinkedIn"
@@ -79,18 +77,18 @@ Busco uma oportunidade como desenvolvedor Front-end para aplicar meus conhecimen
 
 <a href="mailto:SEUEMAIL@gmail.com">
   <img
-    src="https://skillicons.dev/icons?i=gmail"
+    src="https://skillicons.dev/icons?i=gmail&theme=dark"
     width="48"
     height="48"
     alt="E-mail"
-    title="Enviar e-mail"
+    title="E-mail"
   />
 </a>
 &nbsp;&nbsp;
 
 <a href="https://github.com/JuanGCosta">
   <img
-    src="https://skillicons.dev/icons?i=github"
+    src="https://skillicons.dev/icons?i=github&theme=dark"
     width="48"
     height="48"
     alt="GitHub"
@@ -100,6 +98,10 @@ Busco uma oportunidade como desenvolvedor Front-end para aplicar meus conhecimen
 
 </div>
 
-Desenvolvido por **Juan Costa**
+---
+
+<div align="center">
+
+Desenvolvido por <strong>Juan Costa</strong>
 
 </div>
