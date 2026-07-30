@@ -2,13 +2,14 @@
 
 # Olá, eu sou Juan Costa
 
-**Estudante de Engenharia de Software | Desenvolvedor Front-end em formação**
+<img
+  src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=2F81F7&center=true&vCenter=true&width=650&lines=Estudante+de+Engenharia+de+Software;Desenvolvedor+Front-end+em+forma%C3%A7%C3%A3o;HTML%2C+CSS%2C+JavaScript+e+Firebase;Sempre+aprendendo+e+criando+novos+projetos"
+  alt="Texto animado de apresentação"
+/>
 
-Atualmente trabalho na **General Motors** e desenvolvo projetos com  
-HTML, CSS, JavaScript e Firebase.
+Atualmente trabalho na **General Motors** e estudo Engenharia de Software.
 
-[LinkedIn](https://www.linkedin.com/in/juancostaa) •
-[Water Battle](https://water-battlee.web.app)
+Busco desenvolver minhas habilidades em programação e conquistar minha primeira oportunidade profissional como desenvolvedor Front-end.
 
 </div>
 
@@ -19,37 +20,20 @@ HTML, CSS, JavaScript e Firebase.
 - Estudante de Engenharia de Software
 - Atualmente trabalho na General Motors
 - Focado em desenvolvimento Front-end
-- Desenvolvendo projetos práticos para evoluir na programação
-- Buscando minha primeira oportunidade profissional como desenvolvedor
+- Desenvolvendo aplicações com JavaScript e Firebase
+- Estudando programação e criando projetos práticos
+- Buscando minha primeira oportunidade na área de desenvolvimento
 
-## Tecnologias
+## Tecnologias e ferramentas
 
-`HTML5` `CSS3` `JavaScript` `Firebase` `Git` `GitHub` `VS Code`
+<div align="center">
 
-## Projetos em destaque
+<img
+  src="https://skillicons.dev/icons?i=html,css,js,firebase,git,github,vscode&theme=dark"
+  alt="HTML, CSS, JavaScript, Firebase, Git, GitHub e Visual Studio Code"
+/>
 
-### Water Battle
-
-Jogo multiplayer em tempo real para acompanhar metas diárias de hidratação com amigos.
-
-Principais funcionalidades:
-
-- Criação de salas com código
-- Dois jogadores em dispositivos diferentes
-- Atualização do placar em tempo real
-- Metas diárias personalizadas
-- Firebase Authentication
-- Firebase Realtime Database
-- Interface responsiva
-
-**[Abrir projeto](https://water-battlee.web.app)**  
-**[Ver código-fonte](https://github.com/JuanGCosta/water-battle)**
-
-### Chocolate Quest
-
-Jogo de plataforma 2D desenvolvido com HTML, CSS e JavaScript.
-
-O projeto possui fases, personagens, inimigos, chefes, sistema de progressão, loja de skins e diferentes mecânicas de jogo.
+</div>
 
 ## Atualmente estudando
 
@@ -58,15 +42,31 @@ O projeto possui fases, personagens, inimigos, chefes, sistema de progressão, l
 - Engenharia de Software
 - Firebase e bancos de dados
 - Git e GitHub
+- Desenvolvimento de aplicações responsivas
 
 ## Objetivo profissional
 
-Busco uma oportunidade como desenvolvedor Front-end para aplicar meus conhecimentos, aprender com profissionais experientes e participar de projetos reais.
+Busco uma oportunidade como desenvolvedor Front-end para aplicar meus conhecimentos, aprender com profissionais experientes e contribuir com projetos reais.
 
 ## Contato
 
-- [LinkedIn](https://www.linkedin.com/in/juancostaa)
-- [GitHub](https://github.com/JuanGCosta)
+<div align="center">
+
+<a href="https://www.linkedin.com/in/juancostaa">
+  <img
+    src="https://img.shields.io/badge/LinkedIn-Juan%20Costa-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
+    alt="LinkedIn de Juan Costa"
+  />
+</a>
+
+<a href="mailto:SEUEMAIL@gmail.com">
+  <img
+    src="https://img.shields.io/badge/Email-Entre%20em%20contato-EA4335?style=for-the-badge&logo=gmail&logoColor=white"
+    alt="E-mail de Juan Costa"
+  />
+</a>
+
+</div>
 
 ---
 
