@@ -64,30 +64,41 @@ Busco uma oportunidade como desenvolvedor Front-end para aplicar meus conhecimen
 
 ## Contato
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/juancostaa">
-    <img
-      src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
-      alt="LinkedIn"
-    />
-  </a>
-  &nbsp;
-  <a href="mailto:SEUEMAIL@gmail.com">
-    <img
-      src="https://img.shields.io/badge/-E--mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"
-      alt="E-mail"
-    />
-  </a>
-  &nbsp;
-  <a href="https://github.com/JuanGCosta">
-    <img
-      src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white"
-      alt="GitHub"
-    />
-  </a>
-</p>
-
 <div align="center">
+
+<a href="https://www.linkedin.com/in/juancostaa">
+  <img
+    src="https://skillicons.dev/icons?i=linkedin"
+    width="48"
+    height="48"
+    alt="LinkedIn"
+    title="LinkedIn"
+  />
+</a>
+&nbsp;&nbsp;
+
+<a href="mailto:SEUEMAIL@gmail.com">
+  <img
+    src="https://skillicons.dev/icons?i=gmail"
+    width="48"
+    height="48"
+    alt="E-mail"
+    title="Enviar e-mail"
+  />
+</a>
+&nbsp;&nbsp;
+
+<a href="https://github.com/JuanGCosta">
+  <img
+    src="https://skillicons.dev/icons?i=github"
+    width="48"
+    height="48"
+    alt="GitHub"
+    title="GitHub"
+  />
+</a>
+
+</div>
 
 Desenvolvido por **Juan Costa**
 
