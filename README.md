@@ -16,7 +16,7 @@
 
 <p>
   Profissional da <strong>General Motors</strong> e estudante de
-  <strong>Engenharia de Software</strong>.
+  <strong>Computação</strong>.
 </p>
 
 <p>
