@@ -1,3 +1,8 @@
+<img
+  width="100%"
+  src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:16324A&height=130&section=header"
+/>
+
 <div align="center">
 
 <h1>
@@ -97,4 +102,7 @@ Busco minha primeira oportunidade como desenvolvedor Front-End para aplicar meus
 
 </div>
 
----
+<img
+  width="100%"
+  src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:16324A&height=130&section=footer"
+/>
