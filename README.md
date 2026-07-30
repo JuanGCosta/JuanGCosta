@@ -50,11 +50,10 @@
 
 ## Foco atual
 
-- Aprofundar meus conhecimentos em JavaScript
-- Melhorar a organização e a qualidade do código
-- Desenvolver interfaces responsivas e acessíveis
-- Evoluir no uso do Firebase e bancos de dados
-- Construir aplicações completas para meu portfólio
+- Aprofundar meus conhecimentos em Front-End
+- Melhorar a organização e a qualidade dos códigos
+- Dominar melhor as ferramentas do ecossistema de desenvolvimento 
+- Desenvolver projetos completos para fortalecer meu portfólio
 
 ## Objetivo profissional
 
@@ -75,7 +74,7 @@ Busco minha primeira oportunidade como desenvolvedor Front-End para aplicar meus
 </a>
 &nbsp;&nbsp;
 
-<a href="mailto:SEUEMAIL@gmail.com">
+<a href="mailto:juan.costaa75@gmail.com">
   <img
     src="https://skillicons.dev/icons?i=gmail&theme=dark"
     width="48"
@@ -99,9 +98,3 @@ Busco minha primeira oportunidade como desenvolvedor Front-End para aplicar meus
 </div>
 
 ---
-
-<div align="center">
-
-Desenvolvido por <strong>Juan Costa</strong>
-
-</div>
