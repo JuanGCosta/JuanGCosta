@@ -1,17 +1,32 @@
 <div align="center">
 
-# Olá, eu sou Juan Costa
+<h1>
+  Olá, eu sou Juan Costa
+  <img
+    src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif"
+    width="35"
+    alt="Aceno animado"
+  />
+</h1>
 
 <img
-  src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=2F81F7&center=true&vCenter=true&width=650&lines;Desenvolvedor+Front-end+em+forma%C3%A7%C3%A3o;HTML%2C+CSS%2C+JavaScript+e+Firebase;Sempre+aprendendo+e+criando+novos+projetos"
-  alt="Texto animado de apresentação"
+  src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1200&color=2F81F7&center=true&vCenter=true&width=600&lines=Front-End+Developer;HTML%2C+CSS+e+JavaScript"
+  alt="Front-End Developer - HTML, CSS e JavaScript"
 />
 
-Atualmente trabalho na **General Motors** e estudo Engenharia de Software.
+<p>
+  Atualmente trabalho na <strong>General Motors</strong> e estudo
+  <strong>Engenharia de Software</strong>.
+</p>
 
-Busco desenvolver minhas habilidades em programação e conquistar minha primeira oportunidade profissional como desenvolvedor Front-end.
+<p>
+  Desenvolvo projetos para aprimorar minhas habilidades e conquistar minha
+  primeira oportunidade profissional na área de desenvolvimento.
+</p>
 
 </div>
+
+---
 
 ---
 
