@@ -50,31 +50,28 @@ Busco uma oportunidade como desenvolvedor Front-end para aplicar meus conhecimen
 
 ## Contato
 
-<div align="center">
-
-<a href="https://www.linkedin.com/in/juancostaa" target="_blank">
-  <img
-    src="https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
-    alt="LinkedIn"
-  />
-</a>
-
-<a href="mailto:SEUEMAIL@gmail.com">
-  <img
-    src="https://img.shields.io/badge/E--mail-Enviar%20mensagem-EA4335?style=for-the-badge&logo=gmail&logoColor=white"
-    alt="E-mail"
-  />
-</a>
-
-<a href="https://github.com/JuanGCosta" target="_blank">
-  <img
-    src="https://img.shields.io/badge/GitHub-Ver%20perfil-24292F?style=for-the-badge&logo=github&logoColor=white"
-    alt="GitHub"
-  />
-</a>
-
-</div>
----
+<p align="center">
+  <a href="https://www.linkedin.com/in/juancostaa">
+    <img
+      src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
+      alt="LinkedIn"
+    />
+  </a>
+  &nbsp;
+  <a href="mailto:SEUEMAIL@gmail.com">
+    <img
+      src="https://img.shields.io/badge/-E--mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"
+      alt="E-mail"
+    />
+  </a>
+  &nbsp;
+  <a href="https://github.com/JuanGCosta">
+    <img
+      src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white"
+      alt="GitHub"
+    />
+  </a>
+</p>
 
 <div align="center">
 
