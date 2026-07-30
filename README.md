@@ -3,7 +3,7 @@
 # Olá, eu sou Juan Costa
 
 <img
-  src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=2F81F7&center=true&vCenter=true&width=650&lines=Estudante+de+Engenharia+de+Software;Desenvolvedor+Front-end+em+forma%C3%A7%C3%A3o;HTML%2C+CSS%2C+JavaScript+e+Firebase;Sempre+aprendendo+e+criando+novos+projetos"
+  src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=2F81F7&center=true&vCenter=true&width=650&lines;Desenvolvedor+Front-end+em+forma%C3%A7%C3%A3o;HTML%2C+CSS%2C+JavaScript+e+Firebase;Sempre+aprendendo+e+criando+novos+projetos"
   alt="Texto animado de apresentação"
 />
 
