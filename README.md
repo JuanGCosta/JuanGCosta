@@ -30,12 +30,12 @@
 
 ## Perfil
 
-- Desenvolvimento de interfaces web responsivas
-- Manipulação do DOM com JavaScript
-- Integração de aplicações com Firebase
-- Uso de autenticação e banco de dados em tempo real
-- Organização e versionamento de código com Git e GitHub
-- Interesse em boas práticas, acessibilidade e experiência do usuário
+- Desenvolvimento de interfaces responsivas e interativas
+- Implementação de funcionalidades com JavaScript
+- Integração com Firebase Authentication e Realtime Database
+- Criação de interfaces responsivas para computador e celular
+- Desenvolvedor Front-end em formação
+- Foco em qualidade de código, acessibilidade e experiência do usuário
 
 ## Tecnologias e ferramentas
 
