@@ -1,39 +1,77 @@
-<div data-importer="border">
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
+<div align="center">
+
+# Olá, eu sou Juan Costa
+
+**Estudante de Engenharia de Software | Desenvolvedor Front-end em formação**
+
+Atualmente trabalho na **General Motors** e desenvolvo projetos com  
+HTML, CSS, JavaScript e Firebase.
+
+[LinkedIn](https://www.linkedin.com/in/juancostaa) •
+[Water Battle](https://water-battlee.web.app)
+
 </div>
 
-###
+---
 
-<p data-importer="text" align="center">Olá, sou Juan Costa</p>
+## Sobre mim
 
-###
+- Estudante de Engenharia de Software
+- Atualmente trabalho na General Motors
+- Focado em desenvolvimento Front-end
+- Desenvolvendo projetos práticos para evoluir na programação
+- Buscando minha primeira oportunidade profissional como desenvolvedor
 
-<div data-importer="socials" align="center">
-  <a href="www.linkedin.com/in/juancostaa" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="43" height="31" alt="linkedin logo"  />
-  </a>
+## Tecnologias
+
+`HTML5` `CSS3` `JavaScript` `Firebase` `Git` `GitHub` `VS Code`
+
+## Projetos em destaque
+
+### Water Battle
+
+Jogo multiplayer em tempo real para acompanhar metas diárias de hidratação com amigos.
+
+Principais funcionalidades:
+
+- Criação de salas com código
+- Dois jogadores em dispositivos diferentes
+- Atualização do placar em tempo real
+- Metas diárias personalizadas
+- Firebase Authentication
+- Firebase Realtime Database
+- Interface responsiva
+
+**[Abrir projeto](https://water-battlee.web.app)**  
+**[Ver código-fonte](https://github.com/JuanGCosta/water-battle)**
+
+### Chocolate Quest
+
+Jogo de plataforma 2D desenvolvido com HTML, CSS e JavaScript.
+
+O projeto possui fases, personagens, inimigos, chefes, sistema de progressão, loja de skins e diferentes mecânicas de jogo.
+
+## Atualmente estudando
+
+- JavaScript
+- Desenvolvimento Front-end
+- Engenharia de Software
+- Firebase e bancos de dados
+- Git e GitHub
+
+## Objetivo profissional
+
+Busco uma oportunidade como desenvolvedor Front-end para aplicar meus conhecimentos, aprender com profissionais experientes e participar de projetos reais.
+
+## Contato
+
+- [LinkedIn](https://www.linkedin.com/in/juancostaa)
+- [GitHub](https://github.com/JuanGCosta)
+
+---
+
+<div align="center">
+
+Desenvolvido por **Juan Costa**
+
 </div>
-
-###
-
-<p data-importer="text" align="center">Desenvolvedor Front-end em formação.</p>
-
-###
-
-<div data-importer="techs" align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" height="40" alt="css logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" height="40" alt="github logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" height="40" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" height="40" alt="firebase logo"  />
-</div>
-
-###
