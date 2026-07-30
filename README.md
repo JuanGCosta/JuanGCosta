@@ -52,22 +52,28 @@ Busco uma oportunidade como desenvolvedor Front-end para aplicar meus conhecimen
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/juancostaa">
+<a href="https://www.linkedin.com/in/juancostaa" target="_blank">
   <img
-    src="https://img.shields.io/badge/LinkedIn-Juan%20Costa-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
-    alt="LinkedIn de Juan Costa"
+    src="https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
+    alt="LinkedIn"
   />
 </a>
 
 <a href="mailto:SEUEMAIL@gmail.com">
   <img
-    src="https://img.shields.io/badge/Email-Entre%20em%20contato-EA4335?style=for-the-badge&logo=gmail&logoColor=white"
-    alt="E-mail de Juan Costa"
+    src="https://img.shields.io/badge/E--mail-Enviar%20mensagem-EA4335?style=for-the-badge&logo=gmail&logoColor=white"
+    alt="E-mail"
+  />
+</a>
+
+<a href="https://github.com/JuanGCosta" target="_blank">
+  <img
+    src="https://img.shields.io/badge/GitHub-Ver%20perfil-24292F?style=for-the-badge&logo=github&logoColor=white"
+    alt="GitHub"
   />
 </a>
 
 </div>
-
 ---
 
 <div align="center">
